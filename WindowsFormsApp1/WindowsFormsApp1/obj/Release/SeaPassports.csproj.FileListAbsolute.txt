@@ -1,0 +1,10 @@
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SeaPassports.csproj.AssemblyReference.cache
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SeaPassports.csproj.ResolveComReference.cache
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.adminpanel.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainForm.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form3.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Registr.resources
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SeaPassports.csproj.GenerateResource.cache
+D:\Программа\Новая папка (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SeaPassports.csproj.CoreCompileInputs.cache
